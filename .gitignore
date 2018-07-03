@@ -1,0 +1,10 @@
+env/
+.idea
+.vscode
+.cache
+key.txt
+.pytest_cache
+__pycache__
+report.html
+assets/style.css
+key
