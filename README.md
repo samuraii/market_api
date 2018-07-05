@@ -10,6 +10,10 @@ python <3.6
 
 API Key for Yandex Market (should be placed in key file)
 
+# Checklist
+
+The full checkist can be found [HERE](https://github.com/samuraii/market_api/blob/master/CHECKLIST.md)
+
 # How to launch tests
 
 1) Clone this repo to local computer
