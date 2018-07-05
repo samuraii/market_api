@@ -1,5 +1,5 @@
-# Чеклист для проверки API Яндекс Маркет (раздел "Категории", для версии "v2")
-## https://tech.yandex.ru/market/content-data/doc/dg-v2/reference/category-controller-v2-get-root-categories-docpage/
+# Чеклист для проверки API Яндекс Маркет (раздел "Категории", версия "v2")
+## [Документация](https://tech.yandex.ru/market/content-data/doc/dg-v2/reference/category-controller-v2-get-root-categories-docpage/)
 
 1) Проверка доступа к API с невалидным значением ключа. `Atomated`
 
